@@ -7,6 +7,7 @@
 //
 #include<math.h>
 #include <iostream>
+//include LaTeX to display equations
 using namespace std;
 
 int main() {
